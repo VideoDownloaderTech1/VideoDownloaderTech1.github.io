@@ -1,0 +1,34 @@
+google.com, , DIRECT, f08c47fec0942fa0
+applovin.com, 28a0aef1cfe546727b99ab3f1f7dedeb, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
+bidmachine.io, 114, RESELLER
+bidmachine.io, 67, RESELLER
+exchange.admazing.co, AM3, RESELLER
+pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+liftoff.io, 7f6945815e6, RESELLER
+meitu.com, 282, RESELLER
+loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+yandex.com, 40427798, RESELLER
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+mintegral.com, 10038, RESELLER
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1972, RESELLER
+rubiconproject.com, 23778, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23780, RESELLER, 0bfd66d529a55807
+adingo.jp, 25649, DIRECT
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+appnexus.com, 7044, RESELLER, f5ab79cb980f11d1
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+webeyemob.com, 70080, RESELLER
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
