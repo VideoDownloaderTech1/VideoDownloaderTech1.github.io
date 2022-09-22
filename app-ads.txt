@@ -343,6 +343,18 @@ freewheel.tv, 1220655, RESELLER
 yahoo.com, 59052, RESELLER
 risecodes.com, 6022acddc8b2f90001767980, RESELLER
 #Unity
+appnexus.com, 11826, RESELLER
+appnexus.com, 13227, RESELLER
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
+spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
+spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+yandex.com, 95746987, RESELLER
 Se7en.es, 212499, RESELLER, 064bc410192443d8
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
@@ -450,3 +462,11 @@ pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+#mintegral
+mintegral.com, 29350, DIRECT, 0aeed750c80d6423
+gitberry.com, 325100011, DIRECT
+gitberry.com, 325100012, RESELLER
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
+improvedigital.com, 1361, RESELLER
+triplelift.com, 12552, RESELLER, 6c33edb13117fd86
